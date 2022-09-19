@@ -41,7 +41,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #090a29;
+  background: #45505b;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -194,6 +194,7 @@ h6 {
   }
 
   .header-img {
+    margin-bottom: 0px;
     margin-left: 20px;
   }
 
@@ -312,7 +313,7 @@ h6 {
   font-size: 120px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #090a29;
   text-align: center;
   font-family: "Sacramento", cursive;
 }
